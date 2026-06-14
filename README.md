@@ -4,3 +4,8 @@ The OWASP Top 10 for Agentic Applications (2026) is an initiative from the OWASP
 <p align="center">
   <img src="resources/01_ASI10_Rogue_Agents.png" width="100%" alt="What is Machine Learning" />
 </p>
+
+
+<p align="center">
+  <img src="resources/02_ASI10_Rogue_Agents.png" width="100%" alt="Rogue_Agents" />
+</p>
