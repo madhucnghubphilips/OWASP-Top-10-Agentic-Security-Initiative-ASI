@@ -46,7 +46,7 @@ function buildDeck() {
   rmSync(tempMarkdown, { force: true });
 
   const markdown = readFileSync(sourceMarkdown, "utf8")
-    .replaceAll("../../Resources/", "../Resources/");
+    .replaceAll("../../resources/", "../resources/");
 
   writeFileSync(tempMarkdown, markdown);
   runMarp();
