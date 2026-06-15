@@ -6,7 +6,7 @@ html: true
 size: 16:9
 
 
----
+
 
 
 
@@ -15,7 +15,7 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI01_Agent_Goal_Hijack.png)
 
----
+
 
 ---
 
@@ -27,21 +27,21 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI02_Tool_Misuse_&_Exploitation.png)
 
----
+
 
 ---
 
 <!-- _class: image -->
 ![bg contain](../../resources/02_ASI02_Tool_Misuse_&_Exploitation.png)
 
----
+
 
 ---
 
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI03_Identity&Privilege_Abuse.png)
 
----
+
 
 ---
 
@@ -58,7 +58,7 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/02_ASI04_Agentic_Supply_Chain_Vulnerabilities.png)
 
----
+
 
 ---
 
@@ -70,21 +70,21 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/02_ASI05_Unexpected_Code_Execution.png)
 
----
+
 
 ---
 
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI06_Memory&Context_Poisoning.png)
 
----
+
 
 ---
 
 <!-- _class: image -->
 ![bg contain](../../resources/02_ASI06_Memory&Context_Poisoning.png)
 
----
+
 
 ---
 
@@ -101,7 +101,7 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI08_Cascading_Failures.png)
 
----
+
 
 ---
 
@@ -118,7 +118,7 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI09_HumanAgent_Trust_Exploitation.png)
 
----
+
 
 ---
 
@@ -130,7 +130,7 @@ size: 16:9
 <!-- _class: image -->
 ![bg contain](../../resources/01_ASI10_Rogue_Agents.png)
 
----
+
 
 ---
 
