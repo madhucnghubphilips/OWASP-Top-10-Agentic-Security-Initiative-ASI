@@ -5,8 +5,8 @@ const { buildDeck } = require("./build-deck");
 
 const rootDir = path.resolve(__dirname, "..");
 const siteDir = path.join(rootDir, "site");
-const resourcesDir = path.join(rootDir, "Resources");
-const siteResourcesDir = path.join(siteDir, "Resources");
+const resourcesDir = path.join(rootDir, "resources");
+const siteResourcesDir = path.join(siteDir, "resources");
 const deckMetadataPath = path.join(rootDir, "decks", "owasp-top10-llm", "deck.yml");
 
 function copyDirectory(source, destination) {
